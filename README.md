@@ -38,13 +38,26 @@ Concepts Covered:
 > Part 4: [Important concepts in Deep Learning](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_3/ROSHAN%20POUDEL%20-%20HW%233%20Problem%204.pdf)
 
 
-## Homework 04 - Convolutional Neural Networks (CNNs)
+## Homework 04 - Introduction to Pytorch
 
 >Part 1: [A linear classifier in pure TensorFlow](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_4/HW_4P1.ipynb)
 >
->Part 2: [CNN](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_4/HW_4P2.ipynb)
+>Part 2: [pretrained resnet](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_4/HW_4P2.ipynb)
 >
 >Part 3: [ChatGPT is dumber than you think summary](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_4/HW_4P3.pdf)
+
+
+## Homework 05 & 06 - Convolutional Neural Networks (CNNs)
+
+Reading Research Paper: [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
+> Part 1: [A small convnet](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_5_6/Problem1/HW_5_(MNIST_CNN).ipynb)
+>
+> Part 2: [Dogs vs Cats Classifier using CNN](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_5_6/Problem2/HW_5_6_Dogs_vs_Cats_CNN.ipynb)
+>
+> Part 3: [Summary of the paper](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_5_6/Written%20Summary/HW5_6%20CS415.pdf)
+
+
 
 
 
