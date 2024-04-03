@@ -58,6 +58,26 @@ Reading Research Paper: [ImageNet Classification with Deep Convolutional Neural 
 > Part 3: [Summary of the paper](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_5_6/Written%20Summary/HW5_6%20CS415.pdf)
 
 
+## Homework 07 - CNNs continued
+
+[Fine-Tuning Pretrained CNNs](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_07/Homework_7.ipynb)
+
+## Homework 08 - Natural Language Processing
+
+> Part 1: [Text processing basics](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_8/Homework%208%20Q1.pdf)
+>
+> Part 2: [Processing words as a sequence: The sequence model approach](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_8/Hw_8_P2_Q3.ipynb)
+>
+> Part 3: [Comparing Binary Unigram, Binary Bigram, and TF-IDF Bigram Models on the IMDB movie reviews data](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_8/LAB12.ipynb)
+>
+> Part 4: [Presentation on Image Generation](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_8/Paper%20Image%20Generation%20Using%20AI.pdf)
+
+
+
+
+
+
+
 
 
 
