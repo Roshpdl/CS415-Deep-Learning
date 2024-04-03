@@ -1,6 +1,24 @@
 # CS415-DeepLearning
 Introductory Deep Learning Class. Topics covered include CNN's , RNN's, Transformers, and so on.
 
+## There were 12 LAB sessions during the entire semester:
+
+>LAB 00: Exploring Matplotlib
+>
+>LAB 03: [Multi - Hot Encoding](https://github.com/roshpdl/cs415-deep-learning/blob/main/LABS/LAB%2003/LAB03.ipynb)
+>
+>LAB 04: [Multiclass Classification example, Single-label](https://github.com/roshpdl/cs415-deep-learning/blob/main/LABS/LAB%2004/LAB04_%20Roshan%20Poudel.ipynb)
+>
+>LAB 06: [Noisy Data and Validation Accuracy](https://github.com/roshpdl/cs415-deep-learning/blob/main/LABS/LAB%2006/LAB_06_Roshan.ipynb)
+>
+>LAB 07: [Improving model fit: Tuning key gradient descent parameters including learning rate, model capacity, L2 weight regularization and dropout](https://github.com/roshpdl/cs415-deep-learning/blob/main/LABS/LAB07/LAB07.ipynb)
+>
+>LAB 10: [Deep learning for timeseries: temperature forecasting comparing 1D convolutional model vs a simple LSTM-based model](https://github.com/roshpdl/cs415-deep-learning/blob/main/LABS/LAB10/LAB_10_.ipynb)
+>
+>LAB 11: [Training and evaluating a dropout-regularized LSTM](https://github.com/roshpdl/cs415-deep-learning/blob/main/LABS/LAB11/LAB11.ipynb)
+>
+>LAB 12: [Sentiment Analysis](https://github.com/roshpdl/cs415-deep-learning/blob/main/LABS/LAB12/LAB12.ipynb)
+
 ## Homework 01
 Description - Basic workflow for training a feed forward neural network model using the MNIST dataset
 [view](https://github.com/roshpdl/cs415-deep-learning/blob/main/Homeworks/Homework_07/Homework_7.ipynb)
