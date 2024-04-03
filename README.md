@@ -1,7 +1,7 @@
 # CS415-DeepLearning
 Introductory Deep Learning Class. Topics covered include CNN's , RNN's, Transformers, and so on.
 
-## There were 12 LAB sessions during the entire semester:
+## LABS:
 
 >LAB 00: Exploring Matplotlib
 >
