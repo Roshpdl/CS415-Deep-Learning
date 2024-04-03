@@ -1,5 +1,5 @@
 # CS415-DeepLearning
-Spring 2023 - This 400-level class had a mixture of lectures, labs, assignments, reading related research papers and writing summaries. Amazing class! I loved it.
+Spring 2023 - This 400-level class had a mixture of lectures, labs, assignments, reading related research papers and writing summaries. Taught by [Dr.Stephen Carl](https://scarl.sewanee.edu/) @University of the South. Amazing class! I loved it.
 
 ## LABS:
 
